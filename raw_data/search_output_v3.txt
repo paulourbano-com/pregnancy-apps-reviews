@@ -1,0 +1,11 @@
+Error: The number of results can't exceed 250
+    at /home/paulo/node_modules/google-play-scraper/lib/search.js:106:13
+    at new Promise (<anonymous>)
+    at Object.search (/home/paulo/node_modules/google-play-scraper/lib/search.js:100:10)
+    at Object.<anonymous> (/home/paulo/node_modules/ramda/dist/ramda.js:5004:27)
+    at Object.search (/home/paulo/node_modules/ramda/dist/ramda.js:48:27)
+    at Object.<anonymous> (/home/paulo/pregnancy-apps-reviews/search_reviews.js:13:9)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
