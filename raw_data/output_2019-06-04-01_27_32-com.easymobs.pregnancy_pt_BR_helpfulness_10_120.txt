@@ -1,0 +1,530 @@
+Pages: 120
+---> Page 0
+---> Page 1
+---> Page 2
+---> Page 3
+---> Page 4
+---> Page 5
+---> Page 6
+---> Page 7
+---> Page 8
+---> Page 9
+---> Page 10
+---> Page 11
+---> Page 12
+---> Page 13
+---> Page 14
+---> Page 15
+---> Page 16
+---> Page 17
+---> Page 18
+---> Page 19
+---> Page 20
+---> Page 21
+---> Page 22
+---> Page 23
+---> Page 24
+---> Page 25
+---> Page 26
+---> Page 27
+---> Page 28
+---> Page 29
+---> Page 30
+---> Page 31
+---> Page 32
+---> Page 33
+---> Page 34
+---> Page 35
+---> Page 36
+---> Page 37
+---> Page 38
+---> Page 39
+---> Page 40
+---> Page 41
+---> Page 42
+---> Page 43
+---> Page 44
+---> Page 45
+---> Page 46
+---> Page 47
+---> Page 48
+---> Page 49
+---> Page 50
+---> Page 51
+---> Page 52
+---> Page 53
+---> Page 54
+---> Page 55
+---> Page 56
+---> Page 57
+---> Page 58
+---> Page 59
+---> Page 60
+---> Page 61
+---> Page 62
+---> Page 63
+---> Page 64
+---> Page 65
+---> Page 66
+---> Page 67
+---> Page 68
+---> Page 69
+---> Page 70
+---> Page 71
+---> Page 72
+---> Page 73
+---> Page 74
+---> Page 75
+---> Page 76
+---> Page 77
+---> Page 78
+---> Page 79
+---> Page 80
+---> Page 81
+---> Page 82
+---> Page 83
+---> Page 84
+---> Page 85
+---> Page 86
+---> Page 87
+---> Page 88
+---> Page 89
+---> Page 90
+---> Page 91
+---> Page 92
+---> Page 93
+---> Page 94
+---> Page 95
+---> Page 96
+---> Page 97
+---> Page 98
+---> Page 99
+---> Page 100
+---> Page 101
+---> Page 102
+---> Page 103
+---> Page 104
+---> Page 105
+---> Page 106
+---> Page 107
+---> Page 108
+---> Page 109
+---> Page 110
+---> Page 111
+---> Page 112
+---> Page 113
+---> Page 114
+---> Page 115
+---> Page 116
+---> Page 117
+---> Page 118
+---> Page 119
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[ { id: 'gp:AOqpTOGMRUspl2MXfuad8MW_rIUjrj0maulLUbKhvUXygOAdzTMUjomb8EHZRIBwr7H8Yhu0XgX-FOZ_zmtWCw',
+    userName: 'Mafalda Rebelo',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mAs4BjcowGH5SCGMtKnEJ0Q2ieumZa4RRP9b_ZaVw=w96-h96-p',
+    date: '24 de abril de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR01SVXNwbDJNWGZ1YWQ4TVdfcklVanJqMG1hdWxMVWJLaHZVWHlnT0FkelRNVWpvbWI4RUhaUklCd3I3SDhZaHUwWGdYLUZPWl96bXRXQ3c',
+    score: 5,
+    title: '',
+    text: 'Muito prática e fácil de ter à mão',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOHdqpEkEa-x6BGO1HRP-hAy00Z1UwSfT3h9pmFJ_GLm37Zfhi_yIVsPgEFjJiTjdFa_DeuJxDo02fsZOA',
+    userName: 'Ísis Favaretto',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mBPdUZGmUT3aJDdxNB6d8jsjyzDlbRozif_TBCfRg=w96-h96-p',
+    date: '21 de maio de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSGRxcEVrRWEteDZCR08xSFJQLWhBeTAwWjFVd1NmVDNoOXBtRkpfR0xtMzdaZmhpX3lJVnNQZ0VGakppVGpkRmFfRGV1SnhEbzAyZnNaT0E',
+    score: 5,
+    title: '',
+    text: 'Great app para gestantes!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOG2DVc0Bv-LubA19ZYMCSBdBPSfInjYb2gOTVa6Jnw8cXI2Rea6pXjc0F3lExG76q9r8RIGo4doQLBJEg',
+    userName: 'Mariana Ribeiro',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mDzMNo-gl5ez2UAOheYgpzP4HyTtSX-WSpihZDzJQ=w96-h96-p',
+    date: '23 de abril de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRzJEVmMwQnYtTHViQTE5WllNQ1NCZEJQU2ZJbmpZYjJnT1RWYTZKbnc4Y1hJMlJlYTZwWGpjMEYzbEV4Rzc2cTlyOFJJR280ZG9RTEJKRWc',
+    score: 4,
+    title: '',
+    text: 'AMILA is the best developer in this subject. Congrats! :)',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGLZzcYIojXb90vFqp1lZpuZt7loAviV2Qkfow2t0-AEoeSEXUXhTK9XPXaPuVcgELzSts8raWP1FCG_w',
+    userName: 'Priscila Rocha',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mCTX6eZJF_n4LZLNuVh1EW7CTQ8FAgOMA59SKo1=w96-h96-p',
+    date: '10 de maio de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR0xaemNZSW9qWGI5MHZGcXAxbFpwdVp0N2xvQXZpVjJRa2ZvdzJ0MC1BRW9lU0VYVVhoVEs5WFBYYVB1VmNnRUx6U3RzOHJhV1AxRkNHX3c',
+    score: 5,
+    title: '',
+    text: 'veey good',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEFPX0HC_CyaRQqVw_NIxmCd5eUjwAaUEK88geKe_IPVkUiFyvdy31rVEy9emy4AQXIMyDxv3HmVg10ig',
+    userName: 'Paulo Cavaca',
+    userImage: 'https://lh5.googleusercontent.com/-vhkL1CDYb04/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reGYc_jURC3TBX3y5ak1V11HOurHw/w96-h96-p/photo.jpg',
+    date: '1 de abril de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRUZQWDBIQ19DeWFSUXFWd19OSXhtQ2Q1ZVVqd0FhVUVLODhnZUtlX0lQVmtVaUZ5dmR5MzFyVkV5OWVteTRBUVhJTXlEeHYzSG1WZzEwaWc',
+    score: 5,
+    title: '',
+    text: 'Very good indeed! You shoul as option consider special cases as IVF. The program is very intuitive, practical and with plenty information. Good job!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOHs9B-RUxn5IbK4HyF3ozp_sLXtHM5g6oLpsWDUpGgrPb5JhlETcNpI5cjVEW6aUoUQ7308VnMe3xoUNg',
+    userName: 'Joana Barros',
+    userImage: 'https://lh6.googleusercontent.com/-pPOERCPfgm4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcJBExJbkEs_ykGzVspJ9ZUfQKucA/w96-h96-p/photo.jpg',
+    date: '27 de fevereiro de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSHM5Qi1SVXhuNUliSzRIeUYzb3pwX3NMWHRITTVnNm9McHNXRFVwR2dyUGI1SmhsRVRjTnBJNWNqVkVXNmFVb1VRNzMwOFZuTWUzeG9VTmc',
+    score: 5,
+    title: '',
+    text: 'Info útil. Fácil registo de dados. Simples e eficaz',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOFA1ISp-wFqd8DdHNewRwLbWWRJRNLPWaWrC72bQSb5hJX8rBddvqw2LqwX4NDO6QPETukT2yW1xcRGLQ',
+    userName: 'António Pedro Gomes',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mB934hH_ZyiIe04B9N_w6kTECJwXnrnz9-YRgQ-=w96-h96-p',
+    date: '13 de março de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRkExSVNwLXdGcWQ4RGRITmV3UndMYldXUkpSTkxQV2FXckM3MmJRU2I1aEpYOHJCZGR2cXcyTHF3WDRORE82UVBFVHVrVDJ5VzF4Y1JHTFE',
+    score: 5,
+    title: '',
+    text: 'boa aplicação!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEsqfTDHPEcHL7bvE8-2suXtvLP_SrZoOUBVIBXQJP2t7Y32KDGZ08I_7NeiSkC4sUR67lt3v6FZ69xlg',
+    userName: 'Gabi Borba',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mBR_qsV0w8uPtwJTBC_YfY9xtYFTgow9aWOSTa6548=w96-h96-p',
+    date: '24 de fevereiro de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRXNxZlRESFBFY0hMN2J2RTgtMnN1WHR2TFBfU3Jab09VQlZJQlhRSlAydDdZMzJLREdaMDhJXzdOZWlTa0M0c1VSNjdsdDN2NkZaNjl4bGc',
+    score: 5,
+    title: '',
+    text: 'Really helpful, love tge Kegel exercises',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEIu82xa4Rhhd_6qbKWtQVErQDln7hJo8f7NT0NPoa3Io01Yh7TTYq1jO3zlgH14Lo0WgJJW22WquoDRw',
+    userName: 'Um usuário do Google',
+    userImage: 'https://lh3.ggpht.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g=w96-h96-p',
+    date: '12 de novembro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRUl1ODJ4YTRSaGhkXzZxYktXdFFWRXJRRGxuN2hKbzhmN05UME5Qb2EzSW8wMVloN1RUWXExak8zemxnSDE0TG8wV2dKSlcyMldxdW9EUnc',
+    score: 5,
+    title: '',
+    text: 'Very good',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOFhR_jCvsrcRiSJOui-vNVyEl6lXRkBXLlt9IJWMwvIcfpjHCI8Bulx90C6SwJ7E61qD74FFh8hIvXQsg',
+    userName: 'Anísia Gonçalves',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mBgK4el06GwIso2Bin-IlSGQffHm9D36C2DNP8wrA=w96-h96-p',
+    date: '6 de fevereiro de 2019',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRmhSX2pDdnNyY1JpU0pPdWktdk5WeUVsNmxYUmtCWExsdDlJSldNd3ZJY2ZwakhDSThCdWx4OTBDNlN3SjdFNjFxRDc0RkZoOGhJdlhRc2c',
+    score: 5,
+    title: '',
+    text: 'Ajuda imenso',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGilJuIATPZoOMS1nIoqyrJKgBuAJ5Os6-LLVHuQkxrazK3Fu_D1fgbw_icGNTTjcwV4INoednV4gdcvg',
+    userName: 'Anna Lara',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mCRmg9krAU2tSCh5iHRcDSMIgi4IFJF1oR4sChkkQ=w96-h96-p',
+    date: '2 de julho de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR2lsSnVJQVRQWm9PTVMxbklvcXlySktnQnVBSjVPczYtTExWSHVRa3hyYXpLM0Z1X0QxZmdid19pY0dOVFRqY3dWNElOb2VkblY0Z2Rjdmc',
+    score: 5,
+    title: '',
+    text: 'I really liked. It brings me useful and interesting information about my \nbaby. The calendar really helps to make plans for the next weeks and months.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOHiiYzdsoCrdhbjSd6_S361l25lSmNPUuEbhclt2GeoxDNiOMzySZTbZ0giEzRnYm4B-euo6OJ8zRxx0Q',
+    userName: 'Um usuário do Google',
+    userImage: 'https://lh3.ggpht.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g=w96-h96-p',
+    date: '6 de abril de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSGlpWXpkc29DcmRoYmpTZDZfUzM2MWwyNWxTbU5QVXVFYmhjbHQyR2VveEROaU9NenlTWlRiWjBnaUV6Um5ZbTRCLWV1bzZPSjh6Unh4MFE',
+    score: 5,
+    title: '',
+    text: 'Único senão é não ter a língua portuguesa, não obstante é muito útil, completo e corresponde a cada etapa do bebé e gravidez',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGylBt32OGczIDkQnQn-9CUhdhAlldDFxL4eXBTFUzobCh02jrWnMX316gsDP4B2T4u6dRnWtwLcsTI1w',
+    userName: 'Lidirce Teixeira',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mA82nzGatIegyZZpB9g0QRtXAXXMc0obOsz_QiS=w96-h96-p',
+    date: '23 de fevereiro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR3lsQnQzMk9HY3pJRGtRblFuLTlDVWhkaEFsbGRERnhMNGVYQlRGVXpvYkNoMDJqclduTVgzMTZnc0RQNEIyVDR1NmRSbld0d0xjc1RJMXc',
+    score: 5,
+    title: '',
+    text: 'Light and very useful.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEZiffMssAntGOhxjZGAo5mCFALE6_YQH4oRE8gAhKqK2wACx2BgIICHvk9bF_Pd-FaJi9wBWrPe33Q5Q',
+    userName: 'sofia soeiro',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mA9D6DiDP7Urq_1H8L-J9BT89G0iYDm5p1S5GX0=w96-h96-p',
+    date: '1 de abril de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRVppZmZNc3NBbnRHT2h4alpHQW81bUNGQUxFNl9ZUUg0b1JFOGdBaEtxSzJ3QUN4MkJnSUlDSHZrOWJGX1BkLUZhSmk5d0JXclBlMzNRNVE',
+    score: 5,
+    title: '',
+    text: 'Simples e com as ferramentas necessárias!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOE-qxJBJtZjPVzyJvSG4vsLAYXF2UJXLNX5fiDTj5dEz_OPOrWCic6eu7GBgnnXyJQsOP8C09-cdrf23A',
+    userName: 'Mario Matos',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mCOa5-ahHXQJMkqdDNevpmz8zti1MhbHKg0mX69=w96-h96-p',
+    date: '22 de fevereiro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRS1xeEpCSnRaalBWenlKdlNHNHZzTEFZWEYyVUpYTE5YNWZpRFRqNWRFel9PUE9yV0NpYzZldTdHQmdublh5SlFzT1A4QzA5LWNkcmYyM0E',
+    score: 5,
+    title: '',
+    text: 'Great app!!!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEEfVSWDPgXttgg2STeKLpTTiAeR9Ew0Gx1obvAuy5i27O4pV_RyKBksGsiZ9FG9mHmZECHoIkDsJnrTA',
+    userName: 'Um usuário do Google',
+    userImage: 'https://lh3.ggpht.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g=w96-h96-p',
+    date: '7 de maio de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRUVmVlNXRFBnWHR0Z2cyU1RlS0xwVFRpQWVSOUV3MEd4MW9idkF1eTVpMjdPNHBWX1J5S0Jrc0dzaVo5Rkc5bUhtWkVDSG9Ja0RzSm5yVEE',
+    score: 5,
+    title: '',
+    text: 'Gostei!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOF9INN-78j3_lv64kqP82TRTMazADzwC8Td2Pj7x_rb6meQuCnA1uT5CzGqvA2HvvJwLWC-dVGldGWDCA',
+    userName: 'Monica Resende',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mBZS2uJKpRgZvkHkPxxQjzbU61GAtQXCDs5LWyG8A=w96-h96-p',
+    date: '17 de janeiro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRjlJTk4tNzhqM19sdjY0a3FQODJUUlRNYXpBRHp3QzhUZDJQajd4X3JiNm1lUXVDbkExdVQ1Q3pHcXZBMkh2dkp3TFdDLWRWR2xkR1dEQ0E',
+    score: 5,
+    title: '',
+    text: 'Foi um guia durante a gravidez. Ler semanalmente as indicações, sinais e sintomas foi bastante útil para saber o que nos espera.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEszDBc0sqLvaMi-F-VCwLFLc3pS3Qcch20PvMLiuf7e9rY_mX0mi_Fzmg0TWBxGA6ihP09RoIs2w2O5g',
+    userName: 'Radmila Vaz',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mC6SSFlErSCbcjpASbRKvpyWdZkwvb_7x665Xk3=w96-h96-p',
+    date: '1 de setembro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRXN6REJjMHNxTHZhTWktRi1WQ3dMRkxjM3BTM1FjY2gyMFB2TUxpdWY3ZTlyWV9tWDBtaV9Gem1nMFRXQnhHQTZpaFAwOVJvSXMydzJPNWc',
+    score: 2,
+    title: '',
+    text: 'Eu gostei desse aplicativo enquanto estava grávida, mas agora eu quero ver as anotações que fiz e não consigo pegar. Tudo foi apagado. Se eu tiver outro bebê não posso comparar.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOF0Dd_1MIUFjkMwXffswrvTTYGbIkJQ8J8KJIf1fGjcj-9BlNBNhAIeAuDDOKUw1V3APBR4ZF5LFAHlUA',
+    userName: 'Cila Esteves',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mAPGYcN4pFni6cpiPjgwE4Cyn5TRvYDYB1V2yW-=w96-h96-p',
+    date: '10 de janeiro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRjBEZF8xTUlVRmprTXdYZmZzd3J2VFRZR2JJa0pROEo4S0pJZjFmR2pjai05QmxOQk5oQUllQXVERE9LVXcxVjNBUEJSNFpGNUxGQUhsVUE',
+    score: 5,
+    title: '',
+    text: 'Very practical in their advices and complete! Very user friendly and atractive to use.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOH0wbiSZSwwea1PqzduFoLyBs3ZLoH4hSdoW80Ja6wuVN2BYU10gkTCvq2uf_dYl7fdyv6stC19cq3ZGA',
+    userName: 'Teresa Amorim',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mBkjr0FeQLOhFcPlOZYOY_BU1_3Hm4CvVtXRX06GQ=w96-h96-p',
+    date: '25 de novembro de 2017',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSDB3YmlTWlN3d2VhMVBxemR1Rm9MeUJzM1pMb0g0aFNkb1c4MEphNnd1Vk4yQllVMTBna1RDdnEydWZfZFlsN2ZkeXY2c3RDMTljcTNaR0E',
+    score: 5,
+    title: '',
+    text: 'Muito útil com dicas muito boas',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOEPP7qOjma7GaThg6tpL4wR5oeWfiaD3wa-vVQZfkkkfgdSoofnRAmMynrCj4P6v8hljSzYvDIWP1dVWA',
+    userName: 'Fabiana Chyczij',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mAxqLgcwIjbTfEd-vqk1A1PpA-SJ_fO1gu69qWw2g=w96-h96-p',
+    date: '19 de janeiro de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRVBQN3FPam1hN0dhVGhnNnRwTDR3UjVvZVdmaWFEM3dhLXZWUVpma2trZmdkU29vZm5SQW1NeW5yQ2o0UDZ2OGhsalN6WXZESVdQMWRWV0E',
+    score: 5,
+    title: '',
+    text: 'Muito pratica, com dicas mt boas e mt facil de usar.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOFrETr65h8dmOpYph9hx5EvT4Xlv29E61HNfT2IIJRBLgVNf9BlxPYx_O0_vDhb3PZVp1yg0vPLZyG1Rg',
+    userName: 'vanessa canda',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mAhNDtChhtJmnjEOwi_4DJoyuYQI_paJBPimIln=w96-h96-p',
+    date: '15 de novembro de 2017',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRnJFVHI2NWg4ZG1PcFlwaDloeDVFdlQ0WGx2MjlFNjFITmZUMklJSlJCTGdWTmY5Qmx4UFl4X08wX3ZEaGIzUFpWcDF5ZzB2UExaeUcxUmc',
+    score: 5,
+    title: '',
+    text: 'App com tudo que precisamos saber e mais alguma coisa',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGrE6wUwzBsbzgzP0KxYVgr7xjtJjEPqQZauC2-KOSFPS1_uljSpLQjyagbEr3SVGNdiapL-MRXnDeOew',
+    userName: 'Beto Parro',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mCMO-XdFp7Ca6oCa1cVIQqPEZRkpDPAU8UvixYmRA=w96-h96-p',
+    date: '14 de novembro de 2017',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR3JFNndVd3pCc2J6Z3pQMEt4WVZncjd4anRKakVQcVFaYXVDMi1LT1NGUFMxX3VsalNwTFFqeWFnYkVyM1NWR05kaWFwTC1NUlhuRGVPZXc',
+    score: 5,
+    title: '',
+    text: 'Great',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOFmjSrccOIWZY455cfC-KBS_1sAvYivqChI1D0J_MpTjV3nIYWe6Y2CBireCiFNOrDU4uNHbIf3BHQv0Q',
+    userName: 'Karoline Costa',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mA0PoAJzAxr8l1CJstXiAhxFq4xlUaEBPDkGQvUEg=w96-h96-p',
+    date: '1 de outubro de 2017',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRm1qU3JjY09JV1pZNDU1Y2ZDLUtCU18xc0F2WWl2cUNoSTFEMEpfTXBUalYzbklZV2U2WTJDQmlyZUNpRk5PckRVNHVOSGJJZjNCSFF2MFE',
+    score: 5,
+    title: '',
+    text: 'É um ótimo app com informações úteis e extremamente bonito!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGeSnS40VJd8jHX1wsApERzyNQrzApOuS3I-ixrrHSrJgPd8yKbXQuPaVXcdEzs8AwdVZOAxEukudCWIg',
+    userName: 'Livia Mendes',
+    userImage: 'https://lh6.googleusercontent.com/-vcsMDf3Fh3w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdm21_p2ZgYkoytvVbQgn0rHcIOhw/w96-h96-p/photo.jpg',
+    date: '26 de janeiro de 2017',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR2VTblM0MFZKZDhqSFgxd3NBcEVSenlOUXJ6QXBPdVMzSS1peHJySFNySmdQZDh5S2JYUXVQYVZYY2RFenM4QXdkVlpPQXhFdWt1ZENXSWc',
+    score: 2,
+    title: '',
+    text: 'Gostei,  mas como deixo em português?',
+    replyDate: '14 de fevereiro de 2017',
+    replyText: 'Livia, thanks for your review and 2-star. Sorry for the inconvenience but for now we are not planning to translate this app to Portuguese, there are too many texts to translate. Maybe in the feature. If you like the app please give us 5-star to support us. We appreciate your feedback to help us make future improvements.' },
+  { id: 'gp:AOqpTOHxGtQMTI8jfDsRZlNHJSjpRRYc7KHHRUP-7EgFRdt4psH6IwhS7sC8KQGbGlHMPZfy7Og7a8yxaoekdg',
+    userName: 'Fabricio Lorensi',
+    userImage: 'https://lh3.googleusercontent.com/-Lu643x2ySOk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reAAOf63QEuw3pHcfiY_zBZkgTL2g/w96-h96-p/photo.jpg',
+    date: '28 de dezembro de 2016',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSHhHdFFNVEk4amZEc1JabE5ISlNqcFJSWWM3S0hIUlVQLTdFZ0ZSZHQ0cHNINkl3aFM3c0M4S1FHYkdsSE1QWmZ5N09nN2E4eXhhb2VrZGc',
+    score: 5,
+    title: '',
+    text: 'Muito bom!!',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOH1AYmy7Tp63n9Sujwv2dh61mjM7h3QjdSzwc2JiE0FJVYgs2rtno6GfN3rCCaW28LxZdClfZx87NC1og',
+    userName: 'Daniela Rodrigues',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mAuS0Hji994EcTpYcy5oIBm5CFz95peVVjS13wf=w96-h96-p',
+    date: '5 de novembro de 2016',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPSDFBWW15N1RwNjNuOVN1and2MmRoNjFtak03aDNRamRTendjMkppRTBGSlZZZ3MycnRubzZHZk4zckNDYVcyOEx4WmRDbGZaeDg3TkMxb2c',
+    score: 5,
+    title: 'Excellent',
+    text: 'Excellent I love it! I like so much! Easier, interesing and beautiful.',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOGakrgGkRdkyvevkAF3IYw9Yk0zFrLwY72HAEftpwOIbbf3XClbv_8UM5ucVp2mD7ub1iq4dyCu3rWISA',
+    userName: 'Gabriela Duarte',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mCdJunasmvdQ8mR1DUpbWiS_D0cz4kCv5Cdoim-EQ=w96-h96-p',
+    date: '11 de março de 2018',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPR2FrcmdHa1Jka3l2ZXZrQUYzSVl3OVlrMHpGckx3WTcySEFFZnRwd09JYmJmM1hDbGJ2XzhVTTV1Y1ZwMm1EN3ViMWlxNGR5Q3UzcldJU0E',
+    score: 5,
+    title: '',
+    text: 'Podia estar em português',
+    replyDate: undefined,
+    replyText: undefined },
+  { id: 'gp:AOqpTOES6Fr8eL0o2VN6g8X3Ew4niAzCv1xWNJ22TUl_H0Z8oNlnUEKhm6V2sHCnNaY1zL78z3p0Euc5do1bjQ',
+    userName: 'Anita Epalanga',
+    userImage: 'https://lh3.googleusercontent.com/a-/AAuE7mDFjPiim_pYC1DRp_nuObfMlyI8sqWA4Q_GDFLwTw=w96-h96-p',
+    date: '6 de dezembro de 2016',
+    url: 'https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&reviewId=Z3A6QU9xcFRPRVM2RnI4ZUwwbzJWTjZnOFgzRXc0bmlBekN2MXhXTkoyMlRVbF9IMFo4b05sblVFS2htNlYyc0hDbk5hWTF6TDc4ejNwMEV1YzVkbzFialE',
+    score: 5,
+    title: 'Muito bom',
+    text: 'Muito bom Excelente',
+    replyDate: undefined,
+    replyText: undefined } ]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
